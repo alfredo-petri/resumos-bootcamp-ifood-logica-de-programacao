@@ -97,7 +97,7 @@ Ao aplicar este comando deve-se utilizar o comando seguido do modo e por fim o h
 
 A imagem abaixo exemplifica o comando sendo usado no modo padrão:
 
-![gitigore](/modulos/modulo1-principios-do-desenvolvimento-agil/aula3-versionamento-de-codigo-com-git-e-github/gitignore.png)
+![gitigore](https://github.com/alfredo-petri/resumos-bootcamp-ifood-logica-de-programacao/blob/main/git-e-github/gitignore.png)
 
 
 
