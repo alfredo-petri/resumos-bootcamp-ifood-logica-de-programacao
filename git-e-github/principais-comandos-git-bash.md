@@ -99,6 +99,10 @@ A imagem abaixo exemplifica o comando sendo usado no modo padrão:
 
 ![gitigore](https://github.com/alfredo-petri/resumos-bootcamp-ifood-logica-de-programacao/blob/main/git-e-github/gitignore.png)
 
+A linha em destaque é o **hash** do commit.
+
+**Obs:** Caso deseje ver o histórico das alterações feitas pelo **git reset** basta utilizar o comando **git reflog**.
+
 
 
 
