@@ -1,0 +1,1 @@
+![capa](https://github.com/alfredo-petri/resumos-bootcamp-ifood-logica-de-programacao/blob/main/git-e-github/CAPA-github.png)
